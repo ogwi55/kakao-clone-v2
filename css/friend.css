@@ -60,6 +60,7 @@
 
 .friend__now-listening i {
   font-size: 12px;
+  color: #52e084;
 }
 
 .friend__add-btn {
@@ -69,4 +70,8 @@
   align-items: center;
   background-color: #f5f5f5;
   border-radius: 5px;
+}
+
+.friends__friend {
+  padding-bottom: 15px;
 }
